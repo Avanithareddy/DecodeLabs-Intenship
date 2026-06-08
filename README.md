@@ -1,3 +1,36 @@
+
+task-1
+##Number Guessing Game GUI
+
+Description
+Number Guessing Game GUI is a Java Swing application that generates a random number between 1 and 100. The user tries to guess the number, and the application provides hints whether the guess is too high or too low. The game tracks the player's score, remaining attempts, and previous guesses through an interactive graphical interface.
+
+Features
+- Random number generation
+- High/Low hints
+- Score tracking
+- Attempt counter
+- Previous guess history
+- New Game option
+- User-friendly GUI
+
+How to Run
+
+Compile
+javac NumberGuessGameGUI.java
+Run
+java NumberGuessGameGUI
+
+Technologies Used
+
+- Java
+- Swing
+- AWT
+- Event Handling
+- OOP Concepts
+
+
+task-2
 # Student Grade Calculator
 
 ## Description
