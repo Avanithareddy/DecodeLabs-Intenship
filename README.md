@@ -18,6 +18,8 @@ How to Run
 
 Compile
 javac NumberGuessGameGUI.java
+
+
 Run
 java NumberGuessGameGUI
 
